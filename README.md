@@ -27,4 +27,7 @@
 1.16: Les trois environnements à disposition sont production, preview et development
 	Ces environnements nous permettent de modifier un environnement sans changer les autre, par exemple tester des modification
 	dans l'environnement de development en laissant l'environnement de production fonctionnel en cas d'erreur.
+1.18:https://td-deploy-git.vercel.app/
+1.19:Un pull request permet de proposer du code à l'administrateur du projet git afin qu'il puissent autoriser ou non les modifications
+	et les merge sur la branche cible. Souvent des tests sont lancés avant de merge les deux branches.
 	
