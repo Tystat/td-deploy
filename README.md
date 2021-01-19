@@ -41,4 +41,4 @@
 	Le workflow d'une feature est donc le suivant : Création d'une nouvelle branche --> Développement de la feature --> push sur github --> pull request --> validation et merge
 	
 1.22:Le serverless est le principe d'utiliser un service tiers afin de gérer l'hebergement de l'application et le load-balancing. La plupart du temps le déploiement peut être configuré
-	programmatiquement par des triggers comme ici avec nos pull requests. Une app en serverless va pouvoir se géré toute seule une fois configuré et ainsi faire gagner du temps aux développeurs
+	programmatiquement par des triggers comme ici avec nos pull requests et ainsi faire gagner du temps aux développeurs.
